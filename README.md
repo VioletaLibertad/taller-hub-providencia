@@ -8,6 +8,8 @@ Es una aplicación muy sencilla que obtiene sus datos desde la api pública de l
 
 [https://rickandmortyapi.com/](url)
 
+[https://rickandmortyapi.com/](url)
+
 ### Expo
 
 [https://docs.expo.io/](url)
