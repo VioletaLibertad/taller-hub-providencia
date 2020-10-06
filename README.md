@@ -6,29 +6,27 @@ Es una aplicación muy sencilla que obtiene sus datos desde la api pública de l
 
 ### Api utilizada
 
-[https://rickandmortyapi.com/](url)
-
-[https://rickandmortyapi.com/](url)
+https://rickandmortyapi.com/
 
 ### Expo
 
-[https://docs.expo.io/](url)
+https://docs.expo.io/
 
 ### React Native
 
-[https://reactnative.dev/docs/environment-setup](url)
+https://reactnative.dev/docs/environment-setup
 
 ### NativeBase
 
-[https://docs.nativebase.io/](url)
+https://docs.nativebase.io/
 
 ### Presentación del taller
 
-[https://docs.google.com/presentation/d/1uJu1yvJ-xYNFdCX-Bv8FG9y5JI3nKrBHWgBEMDxTkv8/edit?usp=sharing](GoogleDocs)
+https://docs.google.com/presentation/d/1uJu1yvJ-xYNFdCX-Bv8FG9y5JI3nKrBHWgBEMDxTkv8/edit?usp=sharing
 
 ### Grabación del taller
 
-[https://drive.google.com/file/d/1eESPCr6BVRSZHWYLECHiDBhnK4MP8oQC/view?usp=sharing](GoogleDrive)
+https://drive.google.com/file/d/1eESPCr6BVRSZHWYLECHiDBhnK4MP8oQC/view?usp=sharing
 
 ----
 
